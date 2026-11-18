@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- generate API reference documentation
-- Updated: 2026-11-16T14:00:01.282Z
+- extract helper functions to utils
+- Updated: 2026-11-18T14:00:01.183Z
