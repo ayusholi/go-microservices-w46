@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-11-18T14:00:01.183Z
+Last updated: 2026-11-20T14:00:01.520Z
 
 ## Progress
 
-- resolve edge case in input validation
+- correct date parsing for different locales
