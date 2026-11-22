@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-11-20T14:00:01.520Z
+Last updated: 2026-11-22T14:00:00.854Z
 
 ## Progress
 
-- correct date parsing for different locales
+- use dependency injection pattern
