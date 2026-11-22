@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement pagination for list endpoints
-- Updated: 2026-11-20T14:00:01.520Z
+- improve code readability and structure
+- Updated: 2026-11-22T14:00:00.854Z
