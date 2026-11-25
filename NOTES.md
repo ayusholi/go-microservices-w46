@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-11-22T14:00:00.854Z
+Last updated: 2026-11-25T14:00:01.311Z
 
 ## Progress
 
-- use dependency injection pattern
+- add health check endpoint
