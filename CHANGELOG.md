@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- improve code readability and structure
-- Updated: 2026-11-22T14:00:00.854Z
+- add architecture decision records
+- Updated: 2026-11-25T14:00:01.311Z
