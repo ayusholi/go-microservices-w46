@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-11-25T14:00:01.311Z
+Last updated: 2026-11-27T14:00:02.723Z
 
 ## Progress
 
-- add health check endpoint
+- add environment variable support
